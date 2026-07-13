@@ -1,4 +1,4 @@
-# 🦺 SafeVision AI – AI Powered PPE Detection for Construction Sites
+# 🦺 SafeVision – AI Powered PPE Detection for Construction Sites
 
 <div align="center">
 
